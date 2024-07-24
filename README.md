@@ -1,4 +1,4 @@
-# Ai-robotics-week-3-task2
+# Ai-robotics-task2
 
 **Task 1: Installing Arduino and Robotic arm packages in Ubunto 16.04**  
 
